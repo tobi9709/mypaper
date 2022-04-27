@@ -1,5 +1,5 @@
 # mypaper
-A paper on my results on a certain topic.
+A publication on my results on a important topic.
 
 ## Abstract
 Useful contribution to this field !
