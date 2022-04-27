@@ -1,5 +1,5 @@
 # mypaper
-A paper on my results on a certain topic.
+A paper written by myself on my results on a certain topic.
 
 ## Abstract
 Useful contribution to this field !
